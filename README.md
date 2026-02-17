@@ -84,19 +84,18 @@ Country names and codes were standardized using official IOC mappings to ensure 
 ### 📊 GDP vs Total Medals Won
 > **Matplotlib scatter plot with regression line**
 
-📌 *Placeholder:*  
-`/visuals/gdp_vs_medals.png`
+📌 *🥇 Medals Won vs GDP:*  
+
+[Medals Won vs GDP](Medals%20Won%20vs%20GDP.png)
 
 ---
 
 ### 📊 Athletes Participated vs Medals Won
 > **Seaborn regression plot**
 
-📌 *🥇 Medals Won vs GDP:*  
+📌 *🥇 Medals Won vs Number of Athletes Participated:*  
+[Medals Won vs No. of Athletes Participated](Medals%20won%20vs%20No.%20of%20Athlets%20Participated.png)
 
-**Seaborn regression plot**
-
-[Medals Won vs GDP](Medals%20Won%20vs%20GDP.png)
 
 ---
 
