@@ -92,8 +92,11 @@ Country names and codes were standardized using official IOC mappings to ensure 
 ### 📊 Athletes Participated vs Medals Won
 > **Seaborn regression plot**
 
-📌 *Placeholder:*  
-`/visuals/athletes_vs_medals.png`
+📌 *🥇 Medals Won vs GDP:*  
+
+**Seaborn regression plot**
+
+![Medals vs GDP](visuals/Medals%20Won%20vs%20GDP.png)
 
 ---
 
