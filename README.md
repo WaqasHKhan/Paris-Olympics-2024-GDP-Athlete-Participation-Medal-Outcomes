@@ -35,7 +35,7 @@ The project is structured as an **end-to-end data analytics case study**, coveri
 ### Scenario 1  
 **Does a country’s GDP influence the total number of medals won?**
 
-> Hypothesis: Higher economic capacity enables better training infrastructure, talent pipelines, and resource allocation; leading to higher medal counts.
+> Hypothesis: Higher economic capacity enables better training infrastructure, talent pipelines, and resource allocation, leading to higher medal counts.
 
 ### Scenario 2  
 **Does the number of athletes participating affect medal outcomes?**
@@ -96,7 +96,7 @@ Country names and codes were standardized using official IOC mappings to ensure 
 
 **Seaborn regression plot**
 
-![Medals vs GDP](visuals/Medals%20Won%20vs%20GDP.png)
+[Medals Won vs GDP](Medals%20Won%20vs%20GDP.png)
 
 ---
 
