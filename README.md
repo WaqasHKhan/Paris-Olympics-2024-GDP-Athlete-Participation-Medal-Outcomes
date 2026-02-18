@@ -158,8 +158,11 @@ It is designed to be **portfolio-ready** for roles in:
 ---
 ## 👤 Author
 
-**Waqas Hameed**  
-Data Analyst | Business Intelligence | Visualization
+**Waqas Hameed**
+
+![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)![Dashboard PDF](https://img.shields.io/badge/@WaqasHKhan-white)
+
+Data Analyst | Business Intelligence | Story-Teller | Visualization & Reporting
 
 ---
 ⭐ If you found this project insightful, feel free to star the repository!
