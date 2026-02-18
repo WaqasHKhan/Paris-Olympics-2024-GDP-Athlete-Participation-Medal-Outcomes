@@ -57,7 +57,7 @@ Country names and codes were standardized using official IOC mappings to ensure 
 
 ---
 
-## 🛠️ Data Pipeline & Methodology
+## 🧪 Methodology
 
 ### 1️⃣ Data Collection
 - Consumed external APIs for real-time medal counts  
@@ -119,7 +119,10 @@ Country names and codes were standardized using official IOC mappings to ensure 
 These insights are relevant for **sports federations, policymakers, and performance analysts** evaluating ROI on athletic investment.
 
 ---
+### 📄 Full Project-Report
+👉 [![Click20%Here20%to20%Open](https://img.shields.io/badge/Project-Report-red)](Paris_Olympics_2024-Report.pdf)
 
+---
 ## 🔧 Tech Stack
 
 - **Python**
