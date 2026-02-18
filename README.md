@@ -9,7 +9,7 @@
 
 ---
 
-## 📌 Project Overview
+## 🔍 Project Overview
 
 This project analyzes the relationship between **economic strength**, **athlete participation**, and **Olympic medal performance** using data from the **Webpages and APIs**
 
@@ -151,10 +151,15 @@ It is designed to be **portfolio-ready** for roles in:
 ---
 
 ## 📬 Next Enhancements
-- Add medal efficiency metrics (medals per athlete / medals per GDP)
+- Add medal efficiency metrics (medals per athlete/medals per GDP)
 - Introduce predictive modeling
 - Expand analysis to historical Olympic Games
 
 ---
+## 👤 Author
 
+**Waqas Hameed**  
+Data Analyst | Business Intelligence | Visualization
+
+---
 ⭐ If you found this project insightful, feel free to star the repository!
