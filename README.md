@@ -120,7 +120,7 @@ These insights are relevant for **sports federations, policymakers, and performa
 
 ---
 ### 📄 Full Project-Report
-👉 [![Click20%Here20%to20%Open](https://img.shields.io/badge/Project-Report-red)](Paris_Olympics_2024-Report.pdf)
+👉 [![Click20%Here20%to20%Open](https://img.shields.io/badge/Project-Report-blue)](Paris_Olympics_2024-Report.pdf)
 
 ---
 ## 🔧 Tech Stack
